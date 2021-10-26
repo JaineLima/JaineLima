@@ -2,7 +2,7 @@
 
 -🌱Estudando Analise e Desenvolvimento em Sistemas 
 
--😄Pronoun: ela/dela
+-😄Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/Jainelima">
