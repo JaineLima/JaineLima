@@ -2,7 +2,7 @@
 
 -👩‍💻 Back-End Developer Junior
 
--🌱Estudando Analise e Desenvolvimento em Sistemas 
+-🌱Estudando Análise e Desenvolvimento em Sistemas 
 
 
 -😄Pronouns: ela/dela.
