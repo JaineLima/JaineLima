@@ -1,11 +1,10 @@
 ## - Olá ! Eu sou a Jaíne Lima👋
 
--👩‍💻 Back-End Developer Junior
+- 👩‍💻 Back-End Developer Junior
 
--🌱Estudando Análise e Desenvolvimento em Sistemas 
+- 🌱Estudando Análise e Desenvolvimento em Sistemas 
 
-
--😄Pronouns: ela/dela.
+- 😄Pronouns: ela/dela.
 
 <div align="center">
   <a href="https://github.com/Jainelima">
