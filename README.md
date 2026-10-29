@@ -13,19 +13,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="jaine-PHP" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="jaine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jaine-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="jaine-MYSQL" height="70" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="jaine-GIT" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="jaine-PYTHON" height="40" width="50"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="jaine-DJANGO" height="60" width="70"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
 
 ##
@@ -36,4 +28,8 @@
 </div>
   </br>
 
-![snake gif](https://github.com/JaineLima/JaineLima/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaineLima/JaineLima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaineLima/JaineLima/output/github-contribution-grid-snake.svg">
+  <img alt="snake gif" src="https://raw.githubusercontent.com/JaineLima/JaineLima/output/github-contribution-grid-snake.svg">
+</picture>
