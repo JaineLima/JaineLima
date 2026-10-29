@@ -2,7 +2,7 @@
 
 - 💻 Apaixonada por tecnologia
 
-- 🌱Estudando Análise e Desenvolvimento em Sistemas 
+- 🎓 Formada em  Análise e Desenvolvimento em Sistemas 
 
 - 😄Pronouns: ela/dela.
 
