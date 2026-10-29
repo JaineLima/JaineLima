@@ -1,4 +1,4 @@
-## - Olá ! Eu sou a Jaíne Lima👋
+## - Olá ! Eu sou a Jaíne Fuscaldi👋
 
 - 💻 Apaixonada por tecnologia.
 
