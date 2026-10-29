@@ -1,10 +1,13 @@
 ## - Olá ! Eu sou a Jaíne Lima👋
 
-- 💻 Apaixonada por tecnologia
+- 💻 Apaixonada por tecnologia.
+
+- 💡 Aprendendo tecnologia na prática, um projeto por vez
 
 - 🎓 Formada em  Análise e Desenvolvimento em Sistemas 
 
 - 😄Pronouns: ela/dela.
+
 
 <div align="center">
   <img alt="Texto animado" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo;Aprendendo+algo+novo+todo+dia;Tecnologia+%C3%A9+o+meu+jeito+de+criar;Bem-vinda+ao+meu+perfil!" />
